@@ -8,3 +8,4 @@
 release/
 scripts/*.go
 TODO*
+.idea
